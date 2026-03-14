@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Vashista
 
-<!--
-**Vashista2007/Vashista2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Who am I?
+I'm a developer who enjoys building projects, learning new technologies, and improving my coding skills. I like experimenting with different tools and turning ideas into real applications.
 
-Here are some ideas to get you started:
+## 🚀 What am I currently working on?
+- Personal coding projects
+- Improving my programming skills
+- Exploring new technologies and frameworks
+- Contributing to open-source when possible
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What tools do I use?
+- Languages: Python, JavaScript, C++
+- Tools: Git, GitHub, VS Code
+- Technologies: HTML, CSS, Node.js
+- OS: Linux / Windows
+
+## 📫 How to reach me
+- Email: vashistareddy8691@gmail.com
+- LinkedIn: www.linkedin.com/in/vashista-revoori
+
+---
+⭐ Feel free to check out my repositories and connect with me!
